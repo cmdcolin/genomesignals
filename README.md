@@ -11,3 +11,5 @@ A collection of types of genomic signals different people plot
 - Tajimas D https://www.g3journal.org/content/6/9/2867 https://en.wikipedia.org/wiki/Tajima%27s_D
 - Genome-wide nucleotide diversity https://www.g3journal.org/content/6/9/2867
 - Fixation index, for comparing two populations https://en.wikipedia.org/wiki/Fixation_index
+- Genome wide association test e.g. Manhattan plot
+- RNA-seq - gene expression, transcript expression, isoform detection, gene fusion detection

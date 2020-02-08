@@ -1,5 +1,7 @@
 # genomesignals
 
+This README is motivated by the idea that the way scientists see the genome is much different from just ACGT, there are many ways of decoding the data
+
 A collection of types of genomic signals different people plot
 
 - Topology weight, a signal showing the match to a particular evolutionary tree topology across the genome https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1938-2/figures/6
@@ -13,3 +15,7 @@ A collection of types of genomic signals different people plot
 - Fixation index, for comparing two populations https://en.wikipedia.org/wiki/Fixation_index
 - Genome wide association test e.g. Manhattan plot
 - RNA-seq - gene expression, transcript expression, isoform detection, gene fusion detection
+- Haplotype homogeneity or selective sweep https://messerlab.org/resources/
+- Recombination rate
+- Linkage disequilibrium (LD)
+- Variant age e.g. https://human.genome.dating/

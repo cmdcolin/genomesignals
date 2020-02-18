@@ -27,6 +27,8 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Fixation index, for comparing two populations https://en.wikipedia.org/wiki/Fixation_index
 - Haplotype homogeneity or selective sweep https://messerlab.org/resources/
 - Variant age e.g. https://human.genome.dating
+- Fitcons http://compgen.cshl.edu/fitCons/
+
 
 ## Traits
 

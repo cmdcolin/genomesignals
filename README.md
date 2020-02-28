@@ -1,6 +1,6 @@
 # genomesignals
 
-This README is motivated by the idea that the way scientists see the genome is much different from just the letters ACGT, there are many ways of decoding the data
+This README is motivated by the idea that the way scientists see the genome is much different from just the letters ACGT, there are many ways of seeing the "signals" in these letters
 
 
 ## NGS

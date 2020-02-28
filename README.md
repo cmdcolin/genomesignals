@@ -7,14 +7,14 @@ This README is motivated by the idea that the way scientists see the genome is m
 
 - RNA-seq - gene expression, transcript expression, isoform detection, gene fusion detection
 - Hi-C chromatin conformation
-- WGS alignment sequence depth, indicating CNV/DUP/DEL
+- WGS alignment sequence depth, indicating CNV/DUP/DEL. Can also indicate SNP, indel, etc. Paired end sequencing, long read sequencing, 
 - ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA (can reveal sequence motifs in the peaks)
 - Methylation
 
 ## Sequence
 
 - GC content, important for gene body, or sequencing bias
-- GC skew, important for replication oriding
+- GC skew, important for replication origin
 - Genes/kbp, or variants/kbp or other measures of feature density
 
 
@@ -35,3 +35,9 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Genome wide association test e.g. Manhattan plot
 - Recombination rate
 - Linkage disequilibrium (LD)
+
+## Genome assembly characteristics
+
+- N50 https://en.wikipedia.org/wiki/N50,_L50,_and_related_statistics
+- BUSCO score
+- Genome size

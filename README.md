@@ -11,6 +11,10 @@ This README is motivated by the idea that the way scientists see the genome is m
 - ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA (can reveal sequence motifs in the peaks)
 - Methylation
 
+## Mutational process
+
+- Loss of heterozygosity https://en.wikipedia.org/wiki/Loss_of_heterozygosity
+
 ## Sequence
 
 - GC content, important for gene body, or sequencing bias

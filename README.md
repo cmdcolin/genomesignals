@@ -23,7 +23,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Topology weight, a signal showing the match to a particular evolutionary tree topology across the genome https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1938-2/figures/6
 - Conservation score e.g. phastCons, phyloP, from multiway alignments
 - Tajimas D https://www.g3journal.org/content/6/9/2867 https://en.wikipedia.org/wiki/Tajima%27s_D
-- Genome-wide nucleotide diversity https://www.g3journal.org/content/6/9/2867
+- Genome-wide nucleotide diversity https://www.g3journal.org/content/6/9/2867 https://en.wikipedia.org/wiki/Nucleotide_diversity
 - Fixation index, for comparing two populations https://en.wikipedia.org/wiki/Fixation_index
 - Haplotype homogeneity or selective sweep https://messerlab.org/resources/
 - Variant age e.g. https://human.genome.dating

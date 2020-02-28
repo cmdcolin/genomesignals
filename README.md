@@ -8,7 +8,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - RNA-seq - gene expression, transcript expression, isoform detection, gene fusion detection
 - Hi-C chromatin conformation
 - WGS alignment sequence depth, indicating CNV/DUP/DEL
-- ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA
+- ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA (can reveal sequence motifs in the peaks)
 - Methylation
 
 ## Sequence

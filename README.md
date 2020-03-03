@@ -10,6 +10,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - WGS alignment sequence depth, indicating CNV/DUP/DEL. Can also indicate SNP, indel, etc. Paired end sequencing, long read sequencing, 
 - ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA (can reveal sequence motifs in the peaks)
 - Methylation
+- ATAC-seq accessible chromatin and DNA footprinting
 
 ## Mutational process
 

@@ -35,6 +35,11 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Fitcons http://compgen.cshl.edu/fitCons/
 
 
+## K-mer
+
+Useful in a wide variety of areas, can expand here
+
+
 ## Traits
 
 - Genome wide association test e.g. Manhattan plot

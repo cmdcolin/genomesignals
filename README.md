@@ -11,6 +11,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - ChIP-seq peaks, the sequencing depth enriched for transcription factor or histone binding to the DNA (can reveal sequence motifs in the peaks)
 - Methylation
 - ATAC-seq accessible chromatin and DNA footprinting
+- Nucleosome occupancy
 
 ## Mutational process
 

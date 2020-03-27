@@ -13,6 +13,11 @@ This README is motivated by the idea that the way scientists see the genome is m
 - ATAC-seq accessible chromatin and DNA footprinting
 - Nucleosome occupancy
 
+## Markers
+
+- Cut sites (restriction enzyme recognition sites) https://en.wikipedia.org/wiki/Restriction_enzyme#Recognition_site
+- Microsatellite https://en.wikipedia.org/wiki/Microsatellite
+
 ## Mutational process
 
 - Loss of heterozygosity https://en.wikipedia.org/wiki/Loss_of_heterozygosity

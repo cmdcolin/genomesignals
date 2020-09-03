@@ -46,8 +46,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 
 ## K-mer
 
-Useful in a wide variety of areas, can expand here
-
+- Mappability e.g. https://genome.ucsc.edu/cgi-bin/hgFileUi?db=hg19&g=wgEncodeMapability
 
 ## Traits
 

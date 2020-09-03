@@ -18,9 +18,12 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Cut sites (restriction enzyme recognition sites) https://en.wikipedia.org/wiki/Restriction_enzyme#Recognition_site
 - Microsatellite https://en.wikipedia.org/wiki/Microsatellite
 
-## Mutational process
+## Mutational process (CNV, others)
 
 - Loss of heterozygosity https://en.wikipedia.org/wiki/Loss_of_heterozygosity
+- B-allele frequency
+- Sequence clipping
+- Sequence depth
 
 ## Sequence
 

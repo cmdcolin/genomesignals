@@ -47,6 +47,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 ## K-mer
 
 - Mappability e.g. https://genome.ucsc.edu/cgi-bin/hgFileUi?db=hg19&g=wgEncodeMapability
+- Ploidy detection and assembly characteristics via k-mer e.g. GenomeScope https://github.com/schatzlab/genomescope
 
 ## Traits
 

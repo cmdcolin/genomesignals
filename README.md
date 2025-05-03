@@ -40,7 +40,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Genome-wide nucleotide diversity https://www.g3journal.org/content/6/9/2867 https://en.wikipedia.org/wiki/Nucleotide_diversity
 - Fixation index, for comparing two populations https://en.wikipedia.org/wiki/Fixation_index
 - Haplotype homogeneity or selective sweep https://messerlab.org/resources/
-- Variant age e.g. https://human.genome.dating
+- Variant age e.g. https://human.genome.dating or https://useast.ensembl.org/info/genome/compara/age_of_base.html
 - Fitcons http://compgen.cshl.edu/fitCons/
 
 

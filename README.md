@@ -42,6 +42,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Haplotype homogeneity or selective sweep https://messerlab.org/resources/
 - Variant age e.g. https://human.genome.dating or https://useast.ensembl.org/info/genome/compara/age_of_base.html
 - Fitcons http://compgen.cshl.edu/fitCons/
+- Ka/Ks https://en.wikipedia.org/wiki/Ka/Ks_ratio
 
 
 ## K-mer

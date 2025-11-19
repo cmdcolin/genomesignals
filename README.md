@@ -43,7 +43,7 @@ This README is motivated by the idea that the way scientists see the genome is m
 - Variant age e.g. https://human.genome.dating or https://useast.ensembl.org/info/genome/compara/age_of_base.html
 - Fitcons http://compgen.cshl.edu/fitCons/
 - Ka/Ks https://en.wikipedia.org/wiki/Ka/Ks_ratio
-
+- "Genealogical depth" https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16793
 
 ## K-mer
 
